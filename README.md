@@ -1,5 +1,7 @@
 # free-osx
 
+> unix `free` on osx in golang
+
 ## Install / Usage
 
 Run `go get github.com/adamdecaf/free-osx` and then you can `go install` to run `free-osx`.
