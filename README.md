@@ -7,7 +7,7 @@
 Run `go get github.com/adamdecaf/free-osx` and then you can `go install` to run `free-osx`.
 
 ```bash
-~/go/src/github.com/adamdecaf/free-osx $ ./free-osx
+~/go/src/github.com/adamdecaf/free-osx $ ./free-osx -h
 6.17GB
 ```
 
